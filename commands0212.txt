@@ -1,0 +1,105 @@
+    1  cd /
+    2  ls
+    3  mkdir learning
+    4  cd learning/
+    5  mkdir git
+    6  ls
+    7  cd git
+    8  git clone https://github.com/munireddy/shellscripts
+    9  ls
+   10  cd shellscripts
+   11  ls
+   12  cd ..
+   13  ls
+   14  mv shellscripts munnishellscripts
+   15  ls
+   16  git clone https://github.com/kalyanim7/shellscripts
+   17  ls
+   18  cd shellscripts/
+   19  ls
+   20  cat testing
+   21  cd /var
+   22  ls
+   23  cd local
+   24  ls
+   25  ls -a
+   26  git init
+   27  ls
+   28  ls -l
+   29  ls -a
+   30  cd .git
+   31  ls
+   32  cd ..
+   33  ls
+   34  git clone https://github.com/kalyanim7/shellscripts.git
+   35  ls
+   36  cd shellscripts
+   37  ls
+   38  cat cZDemo01 
+   39  ls
+   40  mkdir file1.txt
+   41  vi file1.txt/
+   42  vi file1.txt
+   43  ls
+   44  git status
+   45  git add file1,txt
+   46  git add file1.txt
+   47  git status
+   48  vi file1.txt
+   49  vi samplefile
+   50  git add samplefile
+   51  git status
+   52  git commit -m "this is testing file"
+   53  git status
+   54  git push
+   55  exit
+   56  ls
+   57  cd /
+   58  cd var
+   59  ls
+   60  cd local
+   61  ls
+   62  cd shellscripts/
+   63  ls
+   64  cd ..
+   65  ls
+   66  git init
+   67  ls
+   68  ls -a
+   69  ls
+   70  cd shellscripts/
+   71  l
+   72  ls
+   73  rm file1.txt
+   74  rm -f file1.txt
+   75  ls -l
+   76  rm dir file1.txt
+   77  rmdir man
+   78  man rmdir
+   79  rmdir file1.txt
+   80  ls
+   81  cat samplefile 
+   82  ls
+   83  git status
+   84  git pull
+   85  ls -l
+   86  cat samplefile 
+   87  ls
+   88  vi cZDemo01 
+   89  cat samplefile 
+   90  cat cZDemo01 
+   91  git status
+   92  dif cZDemo01 
+   93  diff cZDemo01 
+   94  ls
+   95  git status
+   96  git add cZDemo01 
+   97  git status
+   98  git commit -m "pushing file testing"
+   99  git status
+  100  ls
+  101  cat cZDemo01 
+  102  git push 
+  103  history
+  104  history < commands0212
+  105  history > commands0212.txt
