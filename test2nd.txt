@@ -1,1 +1,3 @@
+made chnages from the command line from new branch created from command lone:wq!
+
 this is the testig for branching
